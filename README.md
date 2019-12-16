@@ -9,7 +9,7 @@ uni-app轮子系列
     ```
     - 组件目录
     ```
-    regions
+    /pages/regions
     |——— china_regions.js
     |——— regions.vue    
     |——— test-regions.vue
